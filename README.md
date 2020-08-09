@@ -8,3 +8,5 @@ a repository to familiar with git operations
 # 3.chutian1 add line
 
 # 4.chutian1 add line in master branch
+
+# 5.chutian1 fix some bugs in hotfix
