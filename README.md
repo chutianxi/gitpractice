@@ -12,3 +12,5 @@ a repository to familiar with git operations
 # 5.chutian1 fix some bugs in hotfix
 
 ## 5.chutian1 add line in testing branch
+
+# 5.chutian1 make some changes and add some features in that.
