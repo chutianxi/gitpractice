@@ -6,3 +6,5 @@ a repository to familiar with git operations
 # 2.chutian1 add line
 
 # 3.chutian1 add line
+
+# 4.chutian1 add line in master branch
